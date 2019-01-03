@@ -3,6 +3,8 @@ D0019N Examinationsuppgift 2, Gym WakeUp
 Caroline Blomgren, carbol-8@student.ltu.se
 Amanda Nordmark, norama-6@student.ltu.se*/
 
+//Testkommentar
+
 package exUppg2;
 
 import java.util.Scanner; //import scanner
